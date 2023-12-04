@@ -7,3 +7,4 @@ This includes:
 - An HTML export of question 12
 - A conda environment file
 - The MIT license
+- The .gitignore file
