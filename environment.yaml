@@ -1,0 +1,5 @@
+name: ass7
+channels:
+  - conda-forge
+  - defaults
+prefix: /Users/stephen/miniconda3/envs/ass7
